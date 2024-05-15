@@ -1,2 +1,2 @@
-# LibraryCatalogue
-Personal Project - Library Catalogue
+# LibraryCatalog
+Personal Project - Library Catalog
